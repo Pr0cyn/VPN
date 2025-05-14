@@ -1,5 +1,7 @@
 ## VPN Bemutatása (Kiber alap)
 
+![VPN_mukodes_hostinger.jpg](VPN_mukodes_hostinger.jpg)
+
 A VPN (virtuális privát hálózat) egy olyan távoli kapcsolat kialakítását jelenti, melynek segítségével egy távoli számítógép egy privát hálózatra tud csatlakozni akár távolról is. 
 Vállalati környezetben rendszerint a vállalati hálózathoz történő csatlakozás egyik módszere a VPN használata. Emellett azonban léteznek olyan VPN szolgáltatások is, melyek különböző földrajzi helyeken elhelyezett kiszolgálókhoz engednek csatlakozni, ezzel elrejtve a felhasználó valós földrajzi helyzetét, valamint hálózati kapcsolódási adatait.
 
