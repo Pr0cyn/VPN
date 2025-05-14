@@ -26,11 +26,18 @@ A web-böngésző alapú VPN esetében egy böngésző-kiegészítőt kell telep
 
 
 **1. Titkosítás:** Amikor csatlakozik egy VPN-hez, az összes adatát titkosítják. Ez azt jelenti, hogy az internetes tevékenységét nem lehet könnyen megfigyelni vagy lehallgatni.
+
 **2. IP cím változtatása:** A VPN egy másik IP-címet biztosít, amely eltérhet a valós IP-címétől. Ez általában a VPN szerverének IP-címe.
+
 **3. Túljutás földrajzi korlátozásokon:** A VPN segítségével elérheti azokat az internetes tartalmakat és szolgáltatásokat, amelyekre földrajzi korlátozások vonatkoznak, mivel a VPN szervereinek elhelyezkedése lehetővé teszi a tartalomhoz való hozzáférést.
+
 **4. Magán- és biztonság:** A VPN által biztosított titkosításnak és IP-cím védelmének köszönhetően a felhasználók internetes tevékenységét nehéz követni, ezáltal növelve a magánszférát és a biztonságot.
+
 **5. Csatlakozás a VPN szerverhez:** Amikor csatlakozik egy VPN szerverhez, a készülékének létre kell hoznia egy biztonságos kapcsolatot a szerverrel. Ez a kapcsolat általában egy kriptografikus protokollon, például az OpenVPN-en, L2TP/IPsec-en vagy PPTP-n keresztül valósul meg.
+
 **6. Internetes forgalom irányítása:** Miután csatlakozott a VPN-hez, az összes internetes forgalom áthalad a VPN szerveren, mielőtt eljutna az internetre. Ez azt jelenti, hogy a szerver általában az útvonal a felhasználó és az internet között, így a külső szemlélők nem tudják meghatározni a felhasználó pontos földrajzi helyzetét vagy azonosítani őt a valódi IP-címe alapján.
+
 **7. VPN kliens használata:** A legtöbb VPN szolgáltatás kliens alkalmazást is biztosít a felhasználók számára, amely egyszerűsíti a VPN-hez való csatlakozást és az összes szükséges beállítást.
-![]()
+
+![VPN_mukodese](VPN_mukodese.png)
 
