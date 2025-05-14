@@ -1,2 +1,2 @@
 # VPN
-VPN bemutatása
+Kiber alap VPN bemutatása
